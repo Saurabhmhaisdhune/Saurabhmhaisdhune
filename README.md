@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurabhmhaisdhune
 - 👀 I’m interested in developing websides...
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to join a Product Based Company
 - 📫 How to reach me ...saurabhmhaisdhune1@gmail.com
 
 <!---
