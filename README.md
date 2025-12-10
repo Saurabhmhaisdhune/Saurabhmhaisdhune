@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mhaisdhune</h1>
 <h3 align="center">
-Full Stack (MERN) Developer | 2 YOE | Building Scalable Web Applications  
+Frontend Developer | 2 YOE | Building Scalable Web Applications  
 </h3>
 
 <p align="center">
-I am a Full Stack Developer with a strong focus on front-end technologies, back-end engineering, APIs, databases, clean architecture, and production-ready practices.  
+I am a Frontend Developer with a strong focus on front-end technologies, back-end engineering, APIs, databases, clean architecture, and production-ready practices.  
 I’ve completed the Full Stack Development Nanodegree Program from GUVI (IIT-M Research Park) and further strengthened my skills by building real-world MERN stack applications.  
-Currently, I am preparing for top MNC roles (10–15 LPA) while working on SaaS apps, system design, and advanced React + TypeScript projects.
+Currently, I am preparing for top MNC roles while working on SaaS apps, system design, and advanced React + TypeScript projects.
 </p>
 
 ---
@@ -18,33 +18,31 @@ Currently, I am preparing for top MNC roles (10–15 LPA) while working on SaaS 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Real-world MERN SaaS Projects**
-- 🌱 I’m currently learning **Redux, TypeScript, PM2, Linux & Java**
-- 🤝 I’m looking for a **Full Stack or Frontend Developer role (Pune / Remote)**
+- 🔭 I’m currently working on **Real-world SaaS Projects**
+- 🌱 I’m currently learning **React, Redux, TypeScript, JavaScript**
+- 🤝 I’m looking for a **Frontend Developer role (Pune / Mummbai)**
 - 👨‍💻 All of my projects are available at:  
-  👉 **https://frolicking-crepe-37b4ea.netlify.app/**
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, REST APIs**
+- 💬 Ask me about **React.js, JavaScript, Typescript, Node JS, REST APIs**
 - 📫 Reach me at **saurabhmhaisdhune1@gmail.com | 8956293676**
 - 📄 View my resume:  
-  👉 **https://drive.google.com/file/d/1YA7xLJEVHGzhyIgd7jq2iuU6mSDEBFpM/view?usp=sharing**
+  👉 **https://drive.google.com/file/d/1oB6Wp8JI35X6lC2Pm66d0TVRdSGk7bPv/view?usp=sharing**
 
 ---
 
 ### 📌 My Key Skills
 - **Frontend:** React.js, TypeScript, Redux, Tailwind, ShadCN, JavaScript, HTML, CSS  
-- **Backend:** Node.js, Express.js, JWT Auth, REST API development  
+- **Backend:** Node.js, Express.js, JWT Auth, REST API development (Basic as per project requirement)
 - **Database:** MongoDB, MySQL, PostgreSQL  
-- **Tools:** Git, Postman, PM2, Linux, VS Code  
-- **DevOps (Basics):** AWS EC2, S3, Azure fundamentals  
+- **Tools:** Git, Postman, VS Code  
+- **DevOps (Basics):** AWS EC2 
 - **Other:** System Design Basics, API Integrations, Clean Code Practices  
 
 ---
 
 ### 📌 What I’m Building Right Now
-- MERN **SaaS App** with Auth, RBAC, Billing & Admin Panel  
+- **SaaS App** with Auth, RBAC, Billing & Admin Panel  
 - **API Management Dashboard** (React + TypeScript + TanStack Query + ShadCN)  
-- Node.js Microservice with **PM2 + Linux Deployment**  
-- A clean and structured **DSA + JS utilities repo**  
+- A clean and structured **JS utilities repo**  
 
 ---
 
