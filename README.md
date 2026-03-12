@@ -4,7 +4,7 @@ Frontend Developer | 2+ YOE | Building Scalable Web Applications
 </h3>
 
 <p align="center">
-I am a Frontend Developer with a strong focus on front-end technologies, back-end engineering, APIs, databases, clean architecture, and production-ready practices.  
+I am a Full stack Developer with a strong focus on front-end technologies, back-end engineering, APIs, databases, clean architecture, and production-ready practices.  
 I’ve completed the Full Stack Development Nanodegree Program from GUVI (IIT-M Research Park) and further strengthened my skills by building real-world MERN stack applications.  
 Currently, I am preparing for top MNC roles while working on SaaS apps, system design, and advanced React + TypeScript projects.
 </p>
@@ -20,7 +20,7 @@ Currently, I am preparing for top MNC roles while working on SaaS apps, system d
 ### 🚀 About Me
 - 🔭 I’m currently working on **Real-world SaaS Projects**
 - 🌱 I’m currently learning **React, Redux, TypeScript, JavaScript**
-- 🤝 I’m looking for a **Frontend Developer role (Pune / Mummbai)**
+- 🤝 I’m looking for a **Full Stack Developer role (Pune / Mummbai)**
 - 👨‍💻 All of my projects are available at:  
 - 💬 Ask me about **React.js, JavaScript, Typescript, Node JS, REST APIs**
 - 📫 Reach me at **saurabhmhaisdhune1@gmail.com | 8956293676**
