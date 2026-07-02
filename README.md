@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mhaisdhune</h1>
 <h3 align="center">
-Full Stcak Developer | 3+ YOE | Building Scalable Web Applications  
+Full Stcak Developer | 2+ YOE | Building Scalable Web Applications  
 </h3>
 
 <p align="center">
-I am a Frontend Developer with a strong focus on front-end technologies, APIs, clean architecture, and production-ready practices.  
+I am a Frontend focus full stack developer with a strong focus on front-end technologies, APIs, clean architecture, and production-ready practices.  
 I’ve completed the Full Stack Development Nanodegree Program from GUVI (IIT-M Research Park) and further strengthened my skills by building real-world MERN stack applications.  
 Currently, I am preparing for top MNC roles while working on SaaS apps, system design, and advanced React + TypeScript projects.
 </p>
