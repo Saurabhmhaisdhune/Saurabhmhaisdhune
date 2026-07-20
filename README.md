@@ -20,8 +20,7 @@ Currently, I am preparing for top MNC roles while working on SaaS apps, system d
 ### 🚀 About Me
 - 🔭 I’m currently working on **Real-world SaaS Projects**
 - 🌱 I’m currently learning **React, Redux, TypeScript, JavaScript**
-- 🤝 I’m looking for a **Full Stack Developer role (Pune / Mummbai)**
-- 👨‍💻 All of my projects are available at:  
+- 🤝 I’m looking for a **Full Stack Developer role (Pune / Mumbai)**
 - 💬 Ask me about **React.js, JavaScript, Typescript, Node JS, REST APIs**
 - 📫 Reach me at **saurabhmhaisdhune1@gmail.com | 8956293676**
 - 📄 View my resume:  
